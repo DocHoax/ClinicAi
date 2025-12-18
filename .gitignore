@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Local env files (keep .env.example committed)
+.env
+.env.*
+!.env.example
+
+# OS / editor
+.DS_Store
+.vscode/
